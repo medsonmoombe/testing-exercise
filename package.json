@@ -1,0 +1,25 @@
+{
+  "name": "testing-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reverseString.test.js",
+  "dependencies": {
+    "jest": "^28.1.0",
+    "yargs": "^17.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medsonmoombe/testing-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/medsonmoombe/testing-exercise/issues"
+  },
+  "homepage": "https://github.com/medsonmoombe/testing-exercise#readme"
+}
